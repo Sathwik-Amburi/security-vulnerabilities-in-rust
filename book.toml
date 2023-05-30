@@ -1,0 +1,6 @@
+[book]
+authors = ["Sathwik Amburi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Security Vulnerabilities in Rust : An Overview"
